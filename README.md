@@ -11,12 +11,17 @@ Analyze command-and-control (C2) techniques
 Assess overall security posture
 
 ## Tools used
-OSINT Framework
+The Harvester
 VirusTotal
 Shodan
-WHOIS Lookup
+WHOIS
+Google dorks
+wayback machine
+Mxtoolbox
+URLScan.io
+ABUSEIP
+Have i been pwned
 MITRE ATT&CK Framework
-Public breach databases
 
 ## Key findings
 Identified potential phishing infrastructure patterns
