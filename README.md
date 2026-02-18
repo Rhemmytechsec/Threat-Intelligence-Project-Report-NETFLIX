@@ -54,6 +54,6 @@ No active scanning or exploitation conducted
 All data collected from publicly available sources
 
 Analysis performed for educational and defensive purposes
-## Full Report
 
-[Download the Full Report Here] [Threat_intelligence_threat_capstone_report_RemiA.pdf]
+
+ 
